@@ -1,0 +1,16 @@
+{
+  "name": "pizza-api",
+  "version": "1.0.0",
+  "description": "Lambda pizza api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node testPizzaApi.js"
+  },
+  "author": "madison.ehlers",
+  "license": "ISC",
+  "dependencies": {
+    "aws-cli": "0.0.2",
+    "aws-sdk": "^2.590.0",
+    "dominos": "2.0.0"
+  }
+}
